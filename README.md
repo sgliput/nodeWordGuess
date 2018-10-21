@@ -4,7 +4,7 @@
 
 This Node word guess game application operates in the command line. It requires the inquirer NPM package.
 
-When the index.js file is run, a random movie is selected from an array of single-word science fiction films (the same list of films from my previous [word guess game] (https://sgliput.github.io/Word-Guess-Game/) that ran in the browser). The player starts with 10 letter guesses. The player is prompted for a letter, and what they type either fills in the letter if it is correct or else returns a "Sorry" message and decreases the number of guesses remaining, as seen below. 
+When the index.js file is run, a random movie is selected from an array of single-word science fiction films (the same list of films from my previous [word guess game](https://sgliput.github.io/Word-Guess-Game/) that ran in the browser). The player starts with 10 letter guesses. The player is prompted for a letter, and what they type either fills in the letter if it is correct or else returns a "Sorry" message and decreases the number of guesses remaining, as seen below. 
 
 ![Gameplay Screenshot 1](/Images/wordGuessImage1.png)
 
